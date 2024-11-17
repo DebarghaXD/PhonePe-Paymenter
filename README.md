@@ -1,9 +1,9 @@
-## Advanced PhonePe Gateway System for Paymenter
-- Take advantage of PhonePe PG, **India's** most trusted and popular payment gateway, for your Paymenter platform and enjoy **0% transaction fees** (as per PhonePe's terms). This extension is designed to provide fast, secure, and convenient payments, seamlessly integrated into your system.
+## Advanced PhonePe Gateway System for Paymenter 
+- Take advantage of PhonePe PG, **India's** most trusted and popular payment gateway, for your @Paymenter platform and enjoy **0% transaction fees** (as per PhonePe's terms). This extension is designed to provide fast, secure, and convenient payments, seamlessly integrated into your system.
 - Supports **UPI**, **Cards**, **Netbanking**, and **Wallets**, making it easier for your clients to pay in their preferred way.
 
 ## ⚙️ Compatibility
-- Compatible with Paymenter **`v0.9.5`** (Not Tested in Older Versions)
+- Compatible with @Paymenter **`v0.9.5`** (Not Tested in Older Versions)
 - Simple, single command installation process. Complete Installation Guide provided in the file `PhonePe-README.pdf` for detailed instructions. **⚠️Warning: You can't directly install this extension from the Admin Area in your Paymenter. You must install it manually by following the instructions due to the unique installation process.**
 - Updates may be provided in the future, ensuring compatibility with new Paymenter versions.
 
