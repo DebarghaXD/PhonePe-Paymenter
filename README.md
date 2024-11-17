@@ -35,14 +35,18 @@ If you appreciate my work and would like to support future updates, you may dona
 **Configuration:** [`OPEN IMAGE`](https://files.debargha.in/paymenter-extension-phonepe/config.png)
 ![Config](https://files.debargha.in/paymenter-extension-phonepe/config.png)
 
+
 **Discord Webhook Integration:** [`OPEN IMAGE`](https://files.debargha.in/paymenter-extension-phonepe/webhook.png)
 ![Discord Webhook Integration](https://files.debargha.in/paymenter-extension-phonepe/webhook.png)
+
 
 **Successful Payment Email Notification:** [`OPEN IMAGE`](https://files.debargha.in/paymenter-extension-phonepe/email.png)
 ![Successful Payment Email Notification](https://files.debargha.in/paymenter-extension-phonepe/email.png)
 
+
 **Invoice Reference:** [`OPEN IMAGE`](https://files.debargha.in/paymenter-extension-phonepe/reference.png)
 ![Invoice Reference](https://files.debargha.in/paymenter-extension-phonepe/reference.png)
+
 
 **Payment Page:** [`OPEN IMAGE`](https://files.debargha.in/paymenter-extension-phonepe/payment.png)
 ![Invoice Reference](https://files.debargha.in/paymenter-extension-phonepe/payment.png)
