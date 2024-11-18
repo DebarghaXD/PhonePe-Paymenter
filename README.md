@@ -22,6 +22,7 @@ unzip -o PhonePe.zip
 - **Discord Webhook Integration:** Get real-time payment notifications directly in your Discord channel for easy tracking.
 - **Successful Payment Email Notification:** Automatically notify customers via Email upon successful transactions.
 - **Invoice Reference:** Attach references to invoices for better tracking and organization.
+- **Dynamic Amount Modifier:** Modify payment amounts for currency conversions, fees, or discounts. For example, `*90` can be used to convert a $5 product to INR. Multiple operations can be chained for flexible configurations.
 
 ## 🛡️ Support
 If you have any questions or face any issues, feel free to reach out to me via:
