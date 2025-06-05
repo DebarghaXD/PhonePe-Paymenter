@@ -1,3 +1,5 @@
+# [OUTDATED] Not maintained anymore and doesn't work with latest Paymenter versions.
+
 ## Advanced PhonePe Gateway System for Paymenter 
 - Take advantage of PhonePe PG, **India's** most trusted and popular payment gateway, for your [Paymenter](https://github.com/paymenter) platform and enjoy **0% transaction fees** (as per PhonePe's terms). This extension is designed to provide fast, secure, and convenient payments, seamlessly integrated into your system.
 - Supports **UPI**, **Cards**, **Netbanking**, and **Wallets**, making it easier for your clients to pay in their preferred way.
